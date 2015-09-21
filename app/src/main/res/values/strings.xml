@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TstLists1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    //
+    <array name="leaders">
+        <item>John</item>
+        <item>David</item>
+        <item>Peter</item>
+    </array>
+    //
+    <array name="foot">
+        <item>Cantona</item>
+        <item>Pele</item>
+        <item>Cruyff</item>
+    </array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //
+</resources>

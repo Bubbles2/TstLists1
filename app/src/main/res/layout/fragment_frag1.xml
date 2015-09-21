@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="dcf.matcom.tstlists1.Frag1"
+    android:background="#e4e35a">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent"
+        android:text="This is my fragment"
+        android:singleLine="true"
+        android:textSize="35dp"
+        android:layout_margin="16dp"
+        android:gravity="center_vertical|center_horizontal" />
+
+</FrameLayout>
